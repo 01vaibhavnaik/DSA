@@ -1,6 +1,6 @@
 package Apptitude;
 
-public class CountingString {
+public class Vowls {
     public static void main(String[] args) {
         String sentence="Asus Laptop F15 2024";
         int vowelCount=0;
